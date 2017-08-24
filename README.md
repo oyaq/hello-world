@@ -1,9 +1,6 @@
 # hello-world
 
-how are u in there?
+hi humans!
 
-oyaq here
-
-Is there anything I can help
-
-okay, thanks...
+oyaq here, i like node, js and coffe 
+them far superior to earth tacos
